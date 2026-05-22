@@ -1,15 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Antonio%20Rudios&fontSize=50&fontColor=00b4d8&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%26%20JavaScript&descAlignY=58&descColor=caf0f8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Antonio%20Rudios&fontSize=50&fontColor=00b4d8&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20TypeScript%20%26%20Node.js&descAlignY=58&descColor=caf0f8&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Construindo+solu%C3%A7%C3%B5es+full+stack+%F0%9F%9A%80;Apaixonado+por+automação+e+APIs;Python+%2B+JavaScript+%3D+%E2%9D%A4%EF%B8%8F;Sempre+aprendendo%2C+sempre+codando)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Construindo+solu%C3%A7%C3%B5es+full+stack+%F0%9F%9A%80;Apaixonado+por+automação+e+APIs;TypeScript+%2B+Node.js+%3D+%E2%9D%A4%EF%B8%8F;Sempre+aprendendo%2C+sempre+codando)](https://git.io/typing-svg)
 
+</div>
 
+---
 
+## 👨‍💻 Sobre mim
+
+```python
+developer = {
+    "nome":       "Antonio Rudios",
+    "alias":      "itsAntonioDev",
+    "localização": "Vila Velha, ES — Brasil 🇧🇷",
+    "foco":       "Full Stack Junior (TypeScript & Node.js)",
+    "estudando":  ["React", "Node.js", "FastAPI", "Django"],
+    "próximo":    "Engenharia de Software @ UVV",
+    "objetivo":   "CLT como desenvolvedor 🎯",
+    "fun_fact":   "Jogo Minecraft nas horas vagas ⛏️"
+}
+```
+
+---
 
 ## 🛠️ Stack & Ferramentas
 
@@ -17,6 +35,7 @@
 
 **Frontend**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +61,17 @@
 
 ---
 
+## 🚀 Projetos em Destaque
 
+| Projeto | Descrição | Stack |
+|--------|-----------|-------|
+| 🍽️ **AnotaAí** | Sistema de gerenciamento de pedidos para restaurantes | React, Vite, Styled Components |
+| 💰 **FinBot** | Bot de finanças pessoais com NLP em português | Python, FastAPI, WhatsApp API |
+| 💈 **BarberSaaS** | Plataforma de agendamento para barbearias | Django, Celery, Mercado Pago |
+| 🔗 **SnapLink** | Encurtador de URL com analytics e rate limiting | Flask, Python |
+| 📚 **Books API** | REST API de gerenciamento de livros com arquitetura em camadas | Node.js, Express |
+
+---
 
 ## 📊 GitHub Stats
 
