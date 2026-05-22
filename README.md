@@ -38,20 +38,6 @@
 
 </div>
 
----
-
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-|--------|-----------|-------|
-| 🍽️ **AnotaAí** | Sistema de gerenciamento de pedidos para restaurantes | React, Vite, Styled Components |
-| 💰 **FinBot** | Bot de finanças pessoais com NLP em português | Python, FastAPI, WhatsApp API |
-| 💈 **BarberSaaS** | Plataforma de agendamento para barbearias | Django, Celery, Mercado Pago |
-| 🔗 **SnapLink** | Encurtador de URL com analytics e rate limiting | Flask, Python |
-| 📚 **Books API** | REST API de gerenciamento de livros com arquitetura em camadas | Node.js, Express |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
