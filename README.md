@@ -8,23 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Construindo+solu%C3%A7%C3%B5es+full+stack+%F0%9F%9A%80;Apaixonado+por+automação+e+APIs;Python+%2B+JavaScript+%3D+%E2%9D%A4%EF%B8%8F;Sempre+aprendendo%2C+sempre+codando)](https://git.io/typing-svg)
 
-</div>
 
----
 
-## 👨‍💻 Sobre mim
-
-```python
-developer = {
-    "nome":       "Antonio Rudio",
-    "alias":      "itsAntonioDev",
-    "foco":       "Full Stack Junior (Python & JavaScript)",
-    "estudando":  ["React", "Node.js", "FastAPI", "Django"],
-    "fun_fact":   "Jogo Minecraft nas horas vagas ⛏️"
-}
-```
-
----
 
 ## 🛠️ Stack & Ferramentas
 
