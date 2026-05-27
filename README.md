@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Antonio%20Rudios&fontSize=50&fontColor=00b4d8&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20TypeScript%20%26%20Node.js&descAlignY=58&descColor=caf0f8&animation=fadeIn" width="100%"/>
+# Antonio Rudios
+
+**Full Stack Developer · TypeScript & Node.js**
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%2B+Node.js;APIs+%7C+Automação+%7C+Performance;Construindo+soluções+que+escalam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;TypeScript+%2B+Node.js;APIs+%7C+Automacao+%7C+Performance;Construindo+solucoes+que+escalam)](https://git.io/typing-svg)
 
 </div>
 
@@ -48,7 +50,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsAntonioDev&show_icons=true&theme=dark&bg_color=0d1117&border_color=00b4d8&icon_color=00b4d8&title_color=00b4d8&text_color=caf0f8&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsAntonioDev&show_icons=true&theme=dark&bg_color=0d1117&border_color=00b4d8&icon_color=00b4d8&title_color=00b4d8&text_color=caf0f8"/>
+&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAntonioDev&layout=compact&theme=dark&bg_color=0d1117&border_color=00b4d8&title_color=00b4d8&text_color=caf0f8"/>
 
 </div>
@@ -73,8 +76,6 @@
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=120&section=footer" width="100%"/>
 
 *"Código bom não é o que funciona — é o que qualquer um consegue entender."*
 
