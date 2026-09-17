@@ -1,6 +1,6 @@
 <div align="center">
 
-# Antonio Rudios
+# Antonio Rudio
 
 **Full Stack Developer · TypeScript & Node.js**
 
