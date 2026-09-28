@@ -2,83 +2,79 @@
 
 # Antonio Rudio
 
-**Full Stack Developer · TypeScript & Node.js**
+### Software Engineering Student · Backend · DevOps · Cloud
+
+Estudante de Engenharia de Software, interessado em construir sistemas,
+entender como eles funcionam internamente e transformar conhecimento
+teórico em experiência prática.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoniorudios)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsAntonioDev)
 
 </div>
 
-<div align="center">
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;TypeScript+%2B+Node.js;APIs+%7C+Automacao+%7C+Performance;Construindo+solucoes+que+escalam)](https://git.io/typing-svg)
+## Sobre mim
 
-</div>
+Sou estudante de **Engenharia de Software** e venho direcionando minha
+carreira para **Backend, DevOps e Cloud Engineering**.
+
+Tenho interesse em entender não apenas como desenvolver uma aplicação,
+mas também como ela é executada, distribuída, monitorada e automatizada.
+
+Gosto de aprender de forma prática, explorando os conceitos por trás
+das tecnologias e buscando constantemente melhorar minha base técnica.
 
 ---
 
 ## Stack & Ferramentas
 
-<div align="center">
+### Backend
 
-**Frontend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Backend**
+<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Ferramentas**
+</p>
 
+### DevOps & Cloud
+
+<p align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-</div>
+</p>
 
----
+### Frontend
 
-## GitHub Stats
+<p align="center">
 
-<div align="center">
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsAntonioDev&show_icons=true&theme=dark&bg_color=0d1117&border_color=00b4d8&icon_color=00b4d8&title_color=00b4d8&text_color=caf0f8"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAntonioDev&layout=compact&theme=dark&bg_color=0d1117&border_color=00b4d8&title_color=00b4d8&text_color=caf0f8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=itsAntonioDev&theme=dark&background=0d1117&border=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=caf0f8&dates=caf0f8)](https://git.io/streak-stats)
-
-</div>
+</p>
 
 ---
 
-## Contato
+## Atualmente estudando
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoniorudios)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsAntonioDev)
-
-</div>
-
----
-
-<div align="center">
-
-*"Código bom não é o que funciona — é o que qualquer um consegue entender."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=itsAntonioDev&color=00b4d8&style=flat-square&label=Visitantes)
-
-</div>
+```text
+Linux
+Redes
+Docker
+CI/CD
+Cloud Computing
+AWS
+Automação
+Infraestrutura
