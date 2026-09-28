@@ -1,80 +1,39 @@
-<div align="center">
-
-# Antonio Rudio
-
-### Software Engineering Student · Backend · DevOps · Cloud
-
-Estudante de Engenharia de Software, interessado em construir sistemas,
-entender como eles funcionam internamente e transformar conhecimento
-teórico em experiência prática.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoniorudios)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsAntonioDev)
-
-</div>
-
----
-
-## Sobre mim
-
-Sou estudante de **Engenharia de Software** e venho direcionando minha
-carreira para **Backend, DevOps e Cloud Engineering**.
-
-Tenho interesse em entender não apenas como desenvolver uma aplicação,
-mas também como ela é executada, distribuída, monitorada e automatizada.
-
-Gosto de aprender de forma prática, explorando os conceitos por trás
-das tecnologias e buscando constantemente melhorar minha base técnica.
-
----
-
-## Stack & Ferramentas
-
-### Backend
 
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B2A5C&height=120&section=header" />
 </p>
 
-### DevOps & Cloud
+<h1 align="center">Antonio Rudio</h1>
+<h3 align="center">Full Stack Developer · TypeScript & Node.js</h3>
+
+<hr>
 
 <p align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsAntonioDev&show_icons=true&hide_border=false&border_radius=8&title_color=E3B04B&icon_color=E3B04B&text_color=D6DBE8&bg_color=0F1730&border_color=E3B04B" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAntonioDev&layout=compact&langs_count=6&hide_border=false&border_radius=8&title_color=E3B04B&text_color=D6DBE8&bg_color=0F1730&border_color=E3B04B" />
 </p>
 
-### Frontend
+<h2 align="center">Social</h2>
 
 <p align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+  <a href="https://SEU-PORTFOLIO.com"><img src="https://img.shields.io/badge/-PORTFÓLIO-E3B04B?style=for-the-badge&logo=vercel&logoColor=0F1730" /></a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/-LINKEDIN-E3B04B?style=for-the-badge&logo=linkedin&logoColor=0F1730" /></a>
+  <a href="https://github.com/itsAntonioDev"><img src="https://img.shields.io/badge/-GITHUB-E3B04B?style=for-the-badge&logo=github&logoColor=0F1730" /></a>
+  <a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-E3B04B?style=for-the-badge&logo=gmail&logoColor=0F1730" /></a>
 </p>
 
----
+<h2 align="center">Tecnologias</h2>
 
-## Atualmente estudando
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,html,css,nodejs,express,python,fastapi,django,git,github,vscode,postman" />
+</p>
 
-```text
-Linux
-Redes
-Docker
-CI/CD
-Cloud Computing
-AWS
-Automação
-Infraestrutura
+<p align="center"><i>"Código bom não é o que funciona — é o que qualquer um consegue entender."</i></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsAntonioDev/itsAntonioDev/output/github-snake.svg" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B2A5C&height=120&section=footer" />
+</p>
