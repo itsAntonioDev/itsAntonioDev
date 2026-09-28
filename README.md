@@ -10,8 +10,8 @@
 <hr>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsAntonioDev&show_icons=true&hide_border=false&border_radius=8&title_color=E3B04B&icon_color=E3B04B&text_color=D6DBE8&bg_color=0F1730&border_color=E3B04B" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAntonioDev&layout=compact&langs_count=6&hide_border=false&border_radius=8&title_color=E3B04B&text_color=D6DBE8&bg_color=0F1730&border_color=E3B04B" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=itsAntonioDev&show_icons=true&include_all_commits=true&hide_border=false&border_radius=8&title_color=E3B04B&icon_color=E3B04B&text_color=D6DBE8&bg_color=0F1730&border_color=E3B04B" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsAntonioDev&layout=compact&langs_count=6&hide_border=false&border_radius=8&title_color=E3B04B&text_color=D6DBE8&bg_color=0F1730&border_color=E3B04B" />
 </p>
 
 <h2 align="center">Social</h2>
