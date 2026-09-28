@@ -20,7 +20,7 @@
   <a href="https://devantonio.com"><img src="https://img.shields.io/badge/-PORTFÓLIO-E3B04B?style=for-the-badge&logo=vercel&logoColor=0F1730" /></a>
   <a href="https://www.linkedin.com/in/antoniorudios"><img src="https://img.shields.io/badge/-LINKEDIN-E3B04B?style=for-the-badge&logo=linkedin&logoColor=0F1730" /></a>
   <a href="https://github.com/itsAntonioDev"><img src="https://img.shields.io/badge/-GITHUB-E3B04B?style=for-the-badge&logo=github&logoColor=0F1730" /></a>
-  <a href="mailto:antoniocode.dev@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-E3B04B?style=for-the-badge&logo=gmail&logoColor=0F1730" /></a>
+  <a href="mailto:antoniocode.dev@gmail.com.br"><img src="https://img.shields.io/badge/-GMAIL-E3B04B?style=for-the-badge&logo=gmail&logoColor=0F1730" /></a>
 </p>
 
 <h2 align="center">Tecnologias</h2>
