@@ -29,12 +29,3 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,python" />
 </p>
 
-<p align="center"><i>"Código bom não é o que funciona — é o que qualquer um consegue entender."</i></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsAntonioDev/itsAntonioDev/output/github-snake.svg" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B2A5C&height=120&section=footer" />
-</p>
