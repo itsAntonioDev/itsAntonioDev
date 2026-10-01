@@ -26,7 +26,7 @@
 <h2 align="center">Tecnologias</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,python,docker,linux,git,github,postgresql,aws" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,python,docker,postgresql" />
 </p>
 
 <p align="center"><i>"Código bom não é o que funciona — é o que qualquer um consegue entender."</i></p>
