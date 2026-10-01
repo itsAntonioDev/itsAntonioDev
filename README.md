@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Antonio Rudio</h1>
-<h3 align="center">Full Stack Developer · TypeScript & Node.js</h3>
+<h3 align="center">Software Engineer</h3>
 
 <hr>
 
