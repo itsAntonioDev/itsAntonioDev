@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,python,docker,postgresql" />
 </p>
 
-<p align="center"><i>Não basta fazer funcionar — é preciso entender, automatizar e saber o que acontece quando falha.</i></p>
+<p align="center"><i>Não basta fazer funcionar  é preciso entender, automatizar e saber o que acontece quando falha.</i></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsAntonioDev/itsAntonioDev/output/github-snake.svg" />
