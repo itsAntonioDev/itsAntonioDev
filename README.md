@@ -4,8 +4,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B2A5C&height=120&section=header" />
 </p>
 
+<h1 align="center">Software Engineer</h1>
 
-<h3 align="center">Software Engineer</h3>
 
 <hr>
 
